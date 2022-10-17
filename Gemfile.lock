@@ -315,7 +315,7 @@ DEPENDENCIES
   mini_backtrace
   minitest-reporters
   pg
-  puma (~> 5.0)
+  puma
   rails (~> 7.0.4)
   rails-controller-testing
   rails_12factor
